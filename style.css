@@ -1,0 +1,28 @@
+body {
+  padding: 80px;
+}
+
+
+hr {
+  margin: 50px;
+  clear: both;
+  border-color: #ccc;
+  border-width: 10px 10px 10px 10px;
+  border-style: dashed;
+}
+
+img {
+  vertical-align: baseline;
+}
+
+
+.float-left {
+  float: left;
+  margin: 0 10px 10px 0;
+}
+
+.float-right {
+  float: right;
+  margin: 0 0 10px 10px;
+}
+
